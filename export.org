@@ -1,0 +1,6 @@
+* Export README as HTML
+
+#+begin_src elisp
+(with-current-buffer (find-file-noselect "README.md")
+  (markdown-export "index.html"))
+#+end_src
