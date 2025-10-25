@@ -10,10 +10,10 @@ send me an [email](mailto:jdbaldry@gmail.com) or reach out on [Facebook](https:/
 Green 2020 Ltd and Squirrel Kitchens Ltd have a number of sites.
 You can see some of the older site iterations on the [Wayback Machine](https://web.archive.org/).
 
-- https://cubkitchens.co.uk: Contact page and Terms left intact.
-- https://madebyoni.com: Site removed.
-- https://www.bearhaus.co.uk: Site expired.
-- https://www.loadbear.co.uk: Site expired.
+- <https://cubkitchens.co.uk>: Contact page and Terms left intact.
+- <https://madebyoni.com>: Site removed.
+- <https://www.bearhaus.co.uk>: Site expired.
+- <https://www.loadbear.co.uk>: Site expired.
 
 ## CCJs
 
