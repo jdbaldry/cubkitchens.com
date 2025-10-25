@@ -31,7 +31,27 @@ The Digital Markets, Competition and Consumers Act 2024 makes it illegal to post
 I've notified Cub Kitchens of the fake review and they've insisted it's legitimate.
 It seems odd for a legitimate customer to leave an AI generated review with no pictures instead of their own experience.
 
+## Shady social media practices
+
+After waiting patiently for four weeks without meaningful communication indicating any intent to deliver my kitchen, I posted on their social media pages on Facebook and Instagram.
+Instead of engaging with the comments, Cub Kitchens deleted my comments and blocked my account.
+
+## Use of retrospective terms and conditions
+
+When I requested a refund, Cub Kitchens quoted their website terms and conditions to me and said that they justified _any_ delays of _any_ length.
+
+I paid a deposit in August and was never shown any terms and conditions.
+The terms section of the website was added some time after 11 September but before 2 October and was dated August 2025 to try and look like it was there for longer.
+
+- [Archive 11 September 2025](https://web.archive.org/web/20250911001641/https://cubkitchens.co.uk/)
+
+  ![Screenshot of the Wayback Machine archive from 11 September 2025](2025-09-11.jpg)
+
+- [Archive 2 October 2025](https://web.archive.org/web/20251002232231/https://cubkitchens.co.uk/)
+
+  ![Screenshot of the Wayback Machine archive from 2 October 2025](2025-10-02.jpg)
+
 ## Winding up petition
 
 There's a winding up petition issued against [Green 2020 Ltd](https://www.thegazette.co.uk/notice/4973248) petitioned by solicitors on behalf of Stark Building Materials (owners of Jewson and other brands).
-I attended the hearing which was adjourned to 10th December 2025.
+I attended the hearing which was adjourned to 10 December 2025.

@@ -4,3 +4,6 @@
 (with-current-buffer (find-file-noselect "README.md")
   (markdown-export "index.html"))
 #+end_src
+
+#+RESULTS:
+: index.html
