@@ -5,6 +5,16 @@ A number of customers have paid large deposits to Cub Kitchens, oni, and Bearhau
 If you're a customer of Cub Kitchens, Cubly, Bearhaus, Load Bear, oni, or any other trading names of [Green 2020 Ltd](https://find-and-update.company-information.service.gov.uk/company/12416577) or [Squirrel Kitchens Ltd](https://find-and-update.company-information.service.gov.uk/company/16450946),
 send me an [email](mailto:jdbaldry@gmail.com) or reach out on [Facebook](https://www.facebook.com/jack.baldry.5454).
 
+## Known sites
+
+Green 2020 Ltd and Squirrel Kitchens Ltd have a number of sites.
+You can see some of the older site iterations on the [Wayback Machine](https://web.archive.org/).
+
+- https://cubkitchens.co.uk: Contact page and Terms left intact.
+- https://madebyoni.com: Site removed.
+- https://www.bearhaus.co.uk: Site expired.
+- https://www.loadbear.co.uk: Site expired.
+
 ## CCJs
 
 There are four unsatisfied records outstanding against Green 2020 Ltd.
